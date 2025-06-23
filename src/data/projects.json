@@ -10,5 +10,17 @@
         "to": "https://maple.lorenzorogers.com/"
       }
     ]
+  },
+  {
+    "name": "Atmosphere",
+    "slug": "atmosphere",
+    "description": "A work-in-progress weather app designed to be delightful.",
+    "icon": "/img/icons/atmosphere.svg",
+    "links": [
+      {
+        "name": "See source",
+        "to": "https://github.com/lorenzorogers/Atmosphere"
+      }
+    ]
   }
 ]

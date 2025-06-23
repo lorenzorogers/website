@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30mm" height="30mm" version="1.1" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(-415,-375)" stroke-width="0">
+<path d="m405 365v50h50v-50zm5.0002 4.9997h40v40h-40z" fill="#e32cf8" fill-opacity=".55118" fill-rule="evenodd" stop-color="#000000" />
+<circle cx="427.5" cy="392.5" r="12.5" fill="#a27dba" fill-rule="evenodd" stop-color="#000000" />
+<circle cx="427.5" cy="392.5" r="10.5" fill="#8e6cb1" fill-rule="evenodd" stop-color="#000000" />
+<circle cx="427.5" cy="392.5" r="8.5" fill="#775ba8" fill-rule="evenodd" stop-color="#000000" />
+<circle cx="427.5" cy="392.5" r="6.5" fill="#6756a1" fill-rule="evenodd" stop-color="#000000" />
+<circle cx="432.5" cy="387.5" r="12.5" fill="#fcbf3a" fill-rule="evenodd" stop-color="#000000" />
+<path d="m432.5 400-12.5-12.5 12.5-12.5 12.5 12.5z" fill="#fcab1b" fill-rule="evenodd" stop-color="#000000" />
+<path d="m426.25 393.75 4e-5 -12.5 12.5 4e-5 -4e-5 12.5z" fill="#fc9104" fill-rule="evenodd" stop-color="#000000" />
+<path d="m432.5 393.75-6.25-6.25 6.25-6.25 6.25 6.25z" fill="#ed6803" fill-rule="evenodd" stop-color="#000000" />
+<path d="m435.63 390.62-6.25 2e-5 -2e-5 -6.25 6.25-2e-5z" fill="#e25103" fill-rule="evenodd" stop-color="#000000" />
+<path d="m432.5 384.38 3.125 3.125-3.125 3.125-3.125-3.125z" fill="#d73603" fill-rule="evenodd" stop-color="#000000" />
+<rect x="410" y="370" width="40" height="40" fill-opacity="0" stop-color="#000000" />
+</g>
+</svg>

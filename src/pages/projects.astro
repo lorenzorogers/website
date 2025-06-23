@@ -19,7 +19,7 @@ type Link = {
 <Default title="Projects">
   <div class="flex flex-col gap-12 py-12">
     <span class="text-6xl font-bold font-round"
-      >here are some <t class="text-lor-teal">projects</t> I've made.</span
+      >here are some <t class="text-lor-teal">projects</t> I've worked on.</span
     >
     <span class="flex flex-row gap-2 items-center h-6"
       >The things I make in my free time. Enjoy!
@@ -29,7 +29,11 @@ type Link = {
         projects.map((project: Project) => (
           <div class="border rounded-3xl p-4 flex flex-col gap-4">
             <span class="flex flex-row gap-4 items-center">
-              <img class="w-12 h-12" src={project.icon} />
+              <img
+                class="size-12 p-2 border rounded-lg"
+                draggable="false"
+                src={project.icon}
+              />
               <span class="font-round text-4xl font-extrabold">
                 {project.name}
               </span>
